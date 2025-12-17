@@ -1,2 +1,3 @@
 # bookbot
-Book Letter Counter
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
